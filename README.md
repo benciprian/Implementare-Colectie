@@ -1,1 +1,1 @@
-# Implementare-Colectie la cazul general  in limbajul java 
+# Implementare-Colecție la cazul general  în limbajul Java 
